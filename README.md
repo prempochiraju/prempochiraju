@@ -36,7 +36,7 @@ M.S. Computer Engineering, Florida Institute of Technology (May 2026)
 ### Certifications
 
 [![Microsoft Certified](https://img.shields.io/badge/Microsoft_Certified-Azure_Data_Engineer_Associate-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/)
-[![IEEE](https://img.shields.io/badge/IEEE-Published_Author_×3-00629B?style=flat-square&logo=ieee&logoColor=white)](https://github.com/prempochiraju)
+[![IEEE](https://img.shields.io/badge/IEEE-Published_Author_×3-00629B?style=flat-square&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/search/searchresult.jsp?queryText=Prem+Swaroop+Pochiraju)
 
 ---
 
@@ -52,9 +52,9 @@ M.S. Computer Engineering, Florida Institute of Technology (May 2026)
 
 ### Publications
 
-- Prem Swaroop Pochiraju et al., **"YOLOv10 for Real-Time Emergency Vehicles Detection in Intelligent Traffic Systems"** — IEEE IC_ASET, 2025
+- Prem Swaroop Pochiraju et al., **"YOLOv10 for Real-Time Emergency Vehicles Detection in Intelligent Traffic Systems"** — IEEE IC_ASET, 2025 · [View on IEEE](https://ieeexplore.ieee.org/abstract/document/11159029)
 
-- Prem Swaroop Pochiraju et al., **"Development of a Machine Learning-Based Model for an Intelligent Ambulance Detection System using CNN"** — WAMS, 2025
+- Prem Swaroop Pochiraju et al., **"Development of a Machine Learning-Based Model for an Intelligent Ambulance Detection System using CNN"** — WAMS, 2025 · [View on IEEE](https://ieeexplore.ieee.org/document/11232047)
 
 - Garrett Gmeiner, Prem Swaroop Pochiraju et al., **"Counting Constraint in POMDPs based on PID Controllers"** — Florida Institute of Technology, 2025
 
