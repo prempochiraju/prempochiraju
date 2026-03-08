@@ -1,7 +1,7 @@
 ## Prem Pochiraju
 
-M.S. Computer Engineering, Florida Institute of Technology (May 2026)
-2+ years Data Engineering · IEEE Published Researcher · Actively seeking full-time roles (H1B sponsorship)
+M.S. Computer Engineering, Florida Institute of Technology (May 2026)  
+2+ years Data Engineering experience · IEEE Published Researcher · Actively seeking full-time roles with H1B sponsorship
 
 ---
 
@@ -36,7 +36,7 @@ M.S. Computer Engineering, Florida Institute of Technology (May 2026)
 ### Certifications
 
 [![Microsoft Certified](https://img.shields.io/badge/Microsoft_Certified-Azure_Data_Engineer_Associate-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/)
-[![IEEE Member](https://img.shields.io/badge/IEEE-Published_Author-00629B?style=flat-square&logo=ieee&logoColor=white)](https://github.com/prempochiraju)
+[![IEEE](https://img.shields.io/badge/IEEE-Published_Author_×3-00629B?style=flat-square&logo=ieee&logoColor=white)](https://github.com/prempochiraju)
 
 ---
 
@@ -45,14 +45,18 @@ M.S. Computer Engineering, Florida Institute of Technology (May 2026)
 | Project | Description | Stack |
 |---|---|---|
 | [Research Paper Q&A Bot](https://github.com/prempochiraju/research-qa-bot) | RAG chatbot that answers questions about research papers with source citations | Python · LangChain · ChromaDB · OpenAI |
-| [YOLOv10 Emergency Vehicle Detection](https://github.com/prempochiraju/yolov10-emergency-detection) | IEEE published real-time detection system for intelligent traffic control | Python · YOLOv10 · OpenCV · CNN |
+| [YOLOv10 Emergency Vehicle Detection](https://github.com/prempochiraju/yolov10-emergency-detection) | Real-time emergency vehicle detection for intelligent traffic signal control | Python · YOLOv10 · OpenCV · CNN |
+| [POMDP Robot Navigation](https://github.com/prempochiraju/pomdp-robot-navigation) | Mobile robot door-counting under sensor uncertainty using POMDP + PID controller | Python · POMDP · PID · iRobot Create3 |
 
 ---
 
 ### Publications
 
 - Prem Swaroop Pochiraju et al., **"YOLOv10 for Real-Time Emergency Vehicles Detection in Intelligent Traffic Systems"** — IEEE IC_ASET, 2025
+
 - Prem Swaroop Pochiraju et al., **"Development of a Machine Learning-Based Model for an Intelligent Ambulance Detection System using CNN"** — WAMS, 2025
+
+- Garrett Gmeiner, Prem Swaroop Pochiraju et al., **"Counting Constraint in POMDPs based on PID Controllers"** — Florida Institute of Technology, 2025
 
 ---
 
@@ -61,5 +65,4 @@ M.S. Computer Engineering, Florida Institute of Technology (May 2026)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Prem_Pochiraju-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prem-pochiraju/)
 [![Email](https://img.shields.io/badge/Email-prempochiraju@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:prempochiraju@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-prempochiraju-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prempochiraju)
-
-![Melbourne, FL](https://img.shields.io/badge/Location-Melbourne,_FL-green?style=flat-square&logo=googlemaps&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Melbourne,_FL-green?style=flat-square&logo=googlemaps&logoColor=white)
