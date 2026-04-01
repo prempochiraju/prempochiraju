@@ -32,7 +32,7 @@ M.S. Computer Engineering, Florida Institute of Technology (May 2026)
 
 ---
 
-### Certifications
+### Certification
 
 [![Microsoft Certified](https://img.shields.io/badge/Microsoft_Certified-Azure_Data_Engineer_Associate-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/)
 [![IEEE](https://img.shields.io/badge/IEEE-Published_Author_×3-00629B?style=flat-square&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/search/searchresult.jsp?queryText=Prem+Swaroop+Pochiraju)
