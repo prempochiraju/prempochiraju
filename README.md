@@ -56,7 +56,7 @@ M.S. Computer Engineering, Florida Institute of Technology (May 2026)
 
 - Prem Swaroop Pochiraju et al., **"Development of a Machine Learning-Based Model for an Intelligent Ambulance Detection System using CNN"** — WAMS, 2025 · [View on IEEE](https://ieeexplore.ieee.org/document/11232047)
 
-- Garrett Gmeiner, Prem Swaroop Pochiraju et al., **"Counting Constraint in POMDPs based on PID Controllers"** — Florida Institute of Technology, 2025
+- Pochiraju, Prem Swaroop et al. "Counting Constraints in POMDPs based on PID Controllers" FLAIRS-39, 2026. [View on Flairs](https://easychair.org/smart-program/FLAIRS-39/2026-05-18.html#talk:309286)
 
 ---
 
