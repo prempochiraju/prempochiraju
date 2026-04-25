@@ -46,7 +46,7 @@ M.S. Computer Engineering, Florida Institute of Technology (May 2026)
 | [Research Paper Q&A Bot](https://github.com/prempochiraju/research-qa-bot) | RAG chatbot that answers questions about research papers with source citations | Python · LangChain · ChromaDB · OpenAI |
 | [YOLOv10 Emergency Vehicle Detection](https://github.com/prempochiraju/yolov10-emergency-detection) | Real-time emergency vehicle detection for intelligent traffic signal control | Python · YOLOv10 · OpenCV · CNN |
 | [Development of a Machine Learning-Based Model for an Intelligent Ambulance Detection ](https://github.com/prempochiraju/yolov10-emergency-detection) | Intelligent Ambulance Detection System | Python · CNN· OpenCV · CNN |
-| [POMDP Robot Navigation]([https://github.com/prempochiraju/pomdp-robot-navigation](https://easychair.org/smart-program/FLAIRS-39/2026-05-18.html#talk:309286)) | Counting Constraints in POMDPs based on PID Controllers | Python · POMDP · PID · iRobot Create3 |
+| [POMDP Robot Navigation]((https://easychair.org/smart-program/FLAIRS-39/2026-05-18.html#talk:309286)) | Counting Constraints in POMDPs based on PID Controllers | Python · POMDP · PID · iRobot Create3 |
 
 ---
 
