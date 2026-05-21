@@ -2,7 +2,7 @@
 
 M.S. Computer Engineering, Florida Institute of Technology (May 2026)  
 2+ years AI/Data Engineering experience · IEEE Published Researcher · Actively seeking full-time roles
----
+----
 
 ### Skills
 
