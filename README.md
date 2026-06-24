@@ -47,6 +47,7 @@ IEEE Published Researcher · Actively seeking full-time roles
 | [YOLOv10 Emergency Vehicle Detection](https://ieeexplore.ieee.org/document/11232047) | A Comprehensive Comparative Analysis and Real-time emergency vehicle detection for intelligent traffic signal control | Python · YOLOv10 · OpenCV · CNN |
 | [Development of a Machine Learning-Based Model for an Intelligent Ambulance Detection ](https://ieeexplore.ieee.org/document/11159029) | Intelligent Ambulance Detection System | Python · CNN· OpenCV · CNN |
 | [POMDP Robot Navigation](https://easychair.org/smart-program/FLAIRS-39/2026-05-18.html#talk:309286) | Counting Constraints in POMDPs based on PID Controllers | Python · POMDP · PID · iRobot Create3 |
+| [Linux Graphics Hardware Monitor](https://github.com/prempochiraju/Linux-Graphics-Hardware-Monitor) | Native Linux hardware monitor with real-time CPU, memory, graphics, and display visualization | C++17 · Wayland · OpenGL · DRM/KMS |
 
 ---
 
